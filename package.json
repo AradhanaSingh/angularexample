@@ -1,0 +1,23 @@
+{
+  "name": "angularexample",
+  "version": "1.0.0",
+  "description": "Installed node js on mac",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AradhanaSingh/angularexample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AradhanaSingh/angularexample/issues"
+  },
+  "devDependencies": {
+    "ts-node": "~2.0.0",
+    "typescript": "2.3.2"
+  },
+  "homepage": "https://github.com/AradhanaSingh/angularexample#readme"
+}
